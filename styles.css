@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.title {
+    font-weight: lighter;
+    width: 500px;
+    text-align: start;
+    display: flex;
+    justify-content: end;
+    margin-left: 20px;
+}
+
+.main-img {
+    box-shadow: 0px 2px 5px lightgray;
+    width: 400px;
+    display: flex;
+    justify-content: start;
+    object-fit: cover;
+    margin: 30px 30px;
+}
+.container {
+    display: flex;
+    
+}
+.auther {
+    width: 500px;
+    margin-left: 25px;
+    margin-top: 10px;
+}
+.ratings {
+    width: 150px;
+    margin-left: 20px;
+}
+.sub-heading {
+    margin-left: 25px;
+}
+.files {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.main-text {
+    margin-left: 25px;
+    font-size: medium;
+    width: 600px;
+}
